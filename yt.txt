@@ -1,1 +1,1 @@
-ำเตไ
+create table yd
